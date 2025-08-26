@@ -32,7 +32,7 @@ GitHub REST API
 ⚙️ Installation & Usage
 
 # Clone repo
-git clone https://github.com/Rahul70079/dev-detective.git
+https://github.com/Rahul70079/git-profile-searcher
 
 # Go inside project
 cd dev-detective
