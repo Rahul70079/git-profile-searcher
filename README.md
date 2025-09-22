@@ -16,14 +16,12 @@ It shows details like profile picture, bio, repositories, followers, following, 
 
 ⚡ Fast and responsive UI
 
+
 🛠️ Tech Stack
 
 HTML5
-
 CSS3 (or TailwindCSS if you used)
-
 JavaScript (Fetch API)
-
 GitHub REST API
 
 📸 Screenshot
