@@ -1,5 +1,3 @@
-
-
 DevDetective 🔍
 
 A simple web app to search GitHub profiles by username.
